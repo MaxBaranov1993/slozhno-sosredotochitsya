@@ -69,6 +69,7 @@
   border: none;
   background-color: transparent;
   cursor: pointer;
+  text-transform: lowercase;
 }
 
 .header__theme-menu-button:hover {
